@@ -1,0 +1,5 @@
+package edu.depaul;
+
+public interface Logger {
+    void log(String message);
+}
